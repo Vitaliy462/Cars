@@ -1,0 +1,14 @@
+F:\Documents\Visual Studio 2015\Projects\CSharp\CarsGame\CarsGame\bin\Debug\CarsGame.exe.config
+C:\Users\Vitaliy\Desktop\2 курс\2 сем\МТРПЗ\ЛР1\CarsGame\CarsGame\bin\Debug\CarsGame.exe.config
+C:\Users\Vitaliy\Desktop\2 курс\2 сем\МТРПЗ\ЛР1\CarsGame\CarsGame\bin\Debug\CarsGame.exe
+C:\Users\Vitaliy\Desktop\2 курс\2 сем\МТРПЗ\ЛР1\CarsGame\CarsGame\bin\Debug\CarsGame.pdb
+C:\Users\Vitaliy\Desktop\2 курс\2 сем\МТРПЗ\ЛР1\CarsGame\CarsGame\obj\Debug\CarsGame.csprojAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\2 курс\2 сем\МТРПЗ\ЛР1\CarsGame\CarsGame\obj\Debug\CarsGame.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Desktop\2 курс\2 сем\МТРПЗ\ЛР1\CarsGame\CarsGame\obj\Debug\CarsGame.exe
+C:\Users\Vitaliy\Desktop\2 курс\2 сем\МТРПЗ\ЛР1\CarsGame\CarsGame\obj\Debug\CarsGame.pdb
+F:\Documents\Visual Studio 2015\Projects\CarsGame\CarsGame\bin\Debug\CarsGame.exe.config
+F:\Documents\Visual Studio 2015\Projects\CarsGame\CarsGame\obj\Debug\CarsGame.exe
+F:\Documents\Visual Studio 2015\Projects\CarsGame\CarsGame\obj\Debug\CarsGame.pdb
+F:\Documents\Visual Studio 2015\Projects\CarsGame\CarsGame\bin\Debug\CarsGame.exe
+F:\Documents\Visual Studio 2015\Projects\CarsGame\CarsGame\bin\Debug\CarsGame.pdb
+F:\Documents\Visual Studio 2015\Projects\CarsGame\CarsGame\obj\Debug\CarsGame.csprojResolveAssemblyReference.cache
