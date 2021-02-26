@@ -9,14 +9,7 @@ namespace CarsGame
     class Program
     {
 
-        //public string start(string num)
-        //{
-        //    string mess;
-        //    switch (num)
-        //    {
-
-        //    }
-        //}
+       
 
         static void Main(string[] args)
         {
